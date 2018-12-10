@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="example.ssl.test" version="0.1.0">
+  <name>Ssl Test</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="tbuschto@eclipsesource.com">
+    Tim Buschtoens
+  </author>
+  <preference name="EnableDeveloperConsole" value="true" />
+  <preference name="UseStrictSSL" value="true" />
+</widget>
